@@ -1,5 +1,6 @@
 {
-    "sites": [],
-    "brands": [],
-    "product_names": []
+    "buy_sites": ["https://ulta.com/", "https://www.sephora.com/", "https://www.yesstyle.com/en/beauty-beauty/list.html/bcc.15478_bpt.46", "https://glossier.com/", "https://www.neutrogena.com/"],
+    "brands": ["MAC", "romand", "mented"],
+    "product_names": ["kat von d", "philosophy", "cloud paint", "Lancôme", "Hydro Boost Water Gel Lotion SPF 30"],
+    "sell_sites": ["https://www.mercari.com/search/?keyword=makeup"]
 }
