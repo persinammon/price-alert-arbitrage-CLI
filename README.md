@@ -21,7 +21,7 @@ write to a local PostgreSQL database, query the database and process
 
 Eyes
 - mascara - $10-25
-- eyeliner, and/or liquid and smokey eye - $20
+- eyeliner, and/or liquid and smokey eye - $10
 - eyeshadow palette - $50+
 Face
 - foundation $25
@@ -35,3 +35,6 @@ Equipment
 - brushes $20
 
 Multiple products in skincare is also a trend.
+
+As a side note, yes, this is why makeup should be optional for women. Many women find it fun, but beauty is hugely expensive
+and the marketing often pushes a very rigid set of parameters for being "beautiful".
